@@ -1,0 +1,97 @@
+body{
+  font-family: 'Oswald', sans-serif;
+  background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(0,221,214,1) 0%, rgba(51,102,255,1) 90% );
+  background-repeat: no-repeat;
+color:#ffffff;
+background-attachment: fixed;
+  background-size: 100% 100%;
+}
+#header{
+  padding:2px;
+}
+.container-fluid{
+  padding:3% 7% 15%;
+    padding-top: 30%;
+}
+.navbar-toggler{
+  font-size: 35px;
+}
+.title{
+  font-size: 100px;
+
+}
+#title{
+  text-align: center;
+
+}
+.titledown{
+  line-height: 2.5;
+}
+.fotter-link{
+color:#2C394B;
+font-size: 50px;
+padding:1%;
+}
+.social-icon:hover{
+  color:#ffffff;
+}
+.about{
+text-align: center;
+  padding:3% 7% 15%;
+  font-size: 35px;
+  padding-top:10%;
+}
+.about-me{
+  color:#000000;
+  line-height: 2.5;
+
+}
+.education{
+  color:#000000;
+  line-height: 2;
+}
+.skill-images{
+  padding:2%;
+}
+#skills-me{
+text-align: center;
+line-height: 2;
+  padding:3% 7% 15%;
+  padding-top: 10%;
+font-size: 35px;
+
+}
+.skill-heading{
+  color:#000000;
+}
+.tools{
+  color:#000000;
+}
+.framework{
+  color:#000000;
+}
+#contact{
+  text-align: center;
+  padding:3% 7% 15%;
+  line-height: 2.5;
+  font-size: 35px;
+  padding-top: 10%;
+}
+.contact-heading{
+  color:#000000;
+    line-height: 2.5;
+}
+.strength{
+  color:#000000;
+  line-height: 2;
+}
+.hobbies{
+  color:#000000;
+  line-height: 2;
+}
+.nav-item{
+  font-size: 25px;
+}
+p{
+  font-family: 'Inconsolata', monospace;
+}
